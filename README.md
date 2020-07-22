@@ -1,2 +1,5 @@
-# phoenix-spanish
-Traducción a español del emulador Phoenix / English translation for Phoenix emulator
+# phoenix-emulator-translations
+
+Traducción a español del Emulador Phoenix 
+
+English translation for Phoenix Emulator
