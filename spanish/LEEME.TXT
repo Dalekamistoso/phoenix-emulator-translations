@@ -1,0 +1,72 @@
+TRADUCCION DE PHOENIX EMULATOR PROJECT A ESPAÑOL BETA 0.1
+=========================================================
+
+He creado este parche para facilitar el uso del mejor 
+emulador existente de la consola 3DO y además es un gran 
+multiemulador con compatibilidad:
+
+Panasonic/Goldstar 3DO	100%
+Atari Jaguar	        95%
+ColecoVision            98%
+Master System/Game Gear	99%
+
+Desgraciadamente el emulador es bastante desconocido al 
+estar escrito integramente en ruso, hasta la creación de
+esta modificación que traduce del ruso al español o al
+inglés, según tus preferencias.
+
+COMPATIBILIDAD
+==============
+
+El parche es compatible con:
+
+1.- Windows x86/x64
+2.- Linux x86/x64
+3.- Android (no verificado)
+
+CARACTERISTICAS BUGS Y LIMITACIONES
+===================================
+
+El parche traduce al inglés y/o español:
+
+El 98% de los textos y el 99% de los menús y opciones.
+
+¿Que falta entonces?
+
+El texto de agradecimientos/créditos (no afecta al uso).
+
+El texto opcional de la versión de pago del emulador para
+Android en Google Play Store, aunque el link original ya 
+no existe por lo que es inútil (no afecta al uso).
+
+Parte del texto auxiliar al redefinir controles, pero si
+que están traducidas los textos de las direcciones y los
+botones (prácticamente no afecta al uso).
+
+
+COMO USAR ESTA TRADUCCION
+=========================
+
+1.- Descarga el emulador de esta página para tu sistema:
+
+    http://www.arts-union.ru/node/23
+
+2.- Simplemente ve a la carpeta del idioma deseado:
+
+    ".\spanish"  (para español)
+    ".\english   (para inglés)
+	
+3.- Copia el archivo "translation.xml" al directorio 
+    principal del emulador y sobreescribe el original.
+
+4.- Listo.
+
+
+Créditos
+========
+
+- DrWh0/Dalekamistoso: Traducción a castellano e inglés. 
+- Grishin Maxim Leonidovich (Altmer): Autor del emulador.
+
+
+Fecha: 22/07/2020

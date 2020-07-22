@@ -1,0 +1,1339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root target="PhoenixEmuProject">
+    <text>
+        <origin>Редактор аннотаций</origin>
+        <translation>Editor de notas del juego/sistema</translation>
+    </text>
+    <text>
+        <origin>Двойной щелчек для замены изображения.</origin>
+        <translation>Double-click para cambiar la imagen.</translation>
+    </text>
+    <text>
+        <origin>Название</origin>
+        <translation>Nombre</translation>
+    </text>
+    <text>
+        <origin>Разработчик</origin>
+        <translation>Desarrollador</translation>
+    </text>
+    <text>
+        <origin>Год</origin>
+        <translation>Año</translation>
+    </text>
+    <text>
+        <origin>Жанр</origin>
+        <translation>Género</translation>
+    </text>
+    <text>
+        <origin>Оценка</origin>
+        <translation>Puntuación</translation>
+    </text>
+    <text>
+        <origin>Число игроков</origin>
+        <translation>Número de jugadores</translation>
+    </text>
+    <text>
+        <origin>Совместимость</origin>
+        <translation>Compatibilidad</translation>
+    </text>
+    <text>
+        <origin>Ошибки эмуляции</origin>
+        <translation>Errores de emulación</translation>
+    </text>
+    <text>
+        <origin>Добавить</origin>
+        <translation>Agregar</translation>
+    </text>
+    <text>
+        <origin>Удалить</origin>
+        <translation>Borrar</translation>
+    </text>
+    <text>
+        <origin>Тип</origin>
+        <translation>Tipo</translation>
+    </text>
+    <text>
+        <origin>Описание</origin>
+        <translation>Descripción</translation>
+    </text>
+    <text>
+        <origin>Аннотация</origin>
+        <translation>Información</translation>
+    </text>
+    <text>
+        <origin>Открыть файл с изображением</origin>
+        <translation>Abrir archivo de imagen</translation>
+    </text>
+    <text>
+        <origin>Файлы изображений (*.jpg *.png);;Другие файлы (*.*)</origin>
+        <translation>Archivos de imagen (* .jpg * .png) ;; Otros archivos (*.*)</translation>
+    </text>
+    <text>
+        <origin>Заменить</origin>
+        <translation>Reemplazar</translation>
+    </text>
+    <text>
+        <origin>Нет содержимого</origin>
+        <translation>Sin contenido</translation>
+    </text>
+    <text>
+        <origin>Рапорт об ошибке</origin>
+        <translation>Informar de un error</translation>
+    </text>
+    <text>
+        <origin>Звук</origin>
+        <translation>Sonido</translation>
+    </text>
+    <text>
+        <origin>Графика</origin>
+        <translation>Video</translation>
+    </text>
+    <text>
+        <origin>Хронометраж</origin>
+        <translation>Sincronización</translation>
+    </text>
+    <text>
+        <origin>Управление</origin>
+        <translation>Control</translation>
+    </text>
+    <text>
+        <origin>Зависание</origin>
+        <translation>Pausar</translation>
+    </text>
+    <text>
+        <origin>Игровая логика</origin>
+        <translation>Lógica del juego</translation>
+    </text>
+    <text>
+        <origin>Другое</origin>
+        <translation>Otro</translation>
+    </text>
+    <text>
+        <origin>Имя</origin>
+        <translation>Nombre</translation>
+    </text>
+    <text>
+        <origin>Значение</origin>
+        <translation>Valor</translation>
+    </text>
+    <text>
+        <origin>Пожиратель глюков</origin>
+        <translation>Informe de glitches</translation>
+    </text>
+    <text>
+        <origin>Платформа</origin>
+        <translation>Platforma</translation>
+    </text>
+    <text>
+        <origin>Сообщения</origin>
+        <translation>Mensajes</translation>
+    </text>
+    <text>
+        <origin>Функции</origin>
+        <translation>Funciones</translation>
+    </text>
+    <text>
+        <origin>Точки</origin>
+        <translation>Puntos</translation>
+    </text>
+    <text>
+        <origin>Панель инструментов</origin>
+        <translation>Barra de herramientas</translation>
+    </text>
+    <text>
+        <origin>Выполнить инструкцию</origin>
+        <translation>Ejecutar instrucción</translation>
+    </text>
+    <text>
+        <origin>Выполнить одну инструкцию</origin>
+        <translation>Ejecutar una instrucción</translation>
+    </text>
+    <text>
+        <origin>К текущей позиции</origin>
+        <translation>A la posición actual</translation>
+    </text>
+    <text>
+        <origin>Перейти к текущей позиции</origin>
+        <translation>Moverse a la posición actual</translation>
+    </text>
+    <text>
+        <origin>К адресу</origin>
+        <translation>A dirección</translation>
+    </text>
+    <text>
+        <origin>Перейти по указанному адресу</origin>
+        <translation>Saltar a dirección especificada</translation>
+    </text>
+    <text>
+        <origin>Разделить горизонтально</origin>
+        <translation>Dividir horizontalmente</translation>
+    </text>
+    <text>
+        <origin>Разделить рабочую область горизонтально</origin>
+        <translation>Dividir el espacio de trabajo horizontalmente</translation>
+    </text>
+    <text>
+        <origin>Разделить вертикально</origin>
+        <translation>Dividir verticalmente</translation>
+    </text>
+    <text>
+        <origin>Разделить рабочую область вертикально</origin>
+        <translation>Dividir el espacio de trabajo verticalmente</translation>
+    </text>
+    <text>
+        <origin>Удалить разделение</origin>
+        <translation>Quitar separación</translation>
+    </text>
+    <text>
+        <origin>Удалить разделение рабочей области</origin>
+        <translation>Quitar la separación del area de trabajo</translation>
+    </text>
+    <text>
+        <origin>Это код</origin>
+        <translation>Este es el código actual</translation>
+    </text>
+    <text>
+        <origin>Рассматривать как код</origin>
+        <translation>Considera vista como código</translation>
+    </text>
+    <text>
+        <origin>Декомпилировать</origin>
+        <translation>Descompilar</translation>
+    </text>
+    <text>
+        <origin>Декомпилировать с указанной точки</origin>
+        <translation>Descompilar a partir de este punto</translation>
+    </text>
+    <text>
+        <origin>Полный дамп</origin>
+        <translation>Volcado completo</translation>
+    </text>
+    <text>
+        <origin>Сохраняем обнаруженные ресурсы и память на диск</origin>
+        <translation>Guardar recursos y memoria detectados en el disco</translation>
+    </text>
+    <text>
+        <origin>Точка останова</origin>
+        <translation>Puntos de interrupción/Breakpoints</translation>
+    </text>
+    <text>
+        <origin>Ловушка чтения</origin>
+        <translation>Leer Hook</translation>
+    </text>
+    <text>
+        <origin>Ловушка записи</origin>
+        <translation>Salvar Hooks</translation>
+    </text>
+    <text>
+        <origin>Закладка</origin>
+        <translation>Marcador</translation>
+    </text>
+    <text>
+        <origin>Отменить</origin>
+        <translation>Cancelar</translation>
+    </text>
+    <text>
+        <origin>Отменить изменения</origin>
+        <translation>Cancelar cambios</translation>
+    </text>
+    <text>
+        <origin>Вернуть</origin>
+        <translation>Retorno</translation>
+    </text>
+    <text>
+        <origin>Вернуть изменения</origin>
+        <translation>Revertir cambios</translation>
+    </text>
+    <text>
+        <origin>Навигация назад</origin>
+        <translation>Volver atrás</translation>
+    </text>
+    <text>
+        <origin>Навигация вперед</origin>
+        <translation>Ir hacia adelante</translation>
+    </text>
+    <text>
+        <origin>Команды</origin>
+        <translation>Comandos</translation>
+    </text>
+    <text>
+        <origin>Правка</origin>
+        <translation>Editar</translation>
+    </text>
+    <text>
+        <origin>Панель меток</origin>
+        <translation>Panel de etiquetas</translation>
+    </text>
+    <text>
+        <origin>Инструменты</origin>
+        <translation>Herramientas</translation>
+    </text>
+    <text>
+        <origin>Вид</origin>
+        <translation>Ver</translation>
+    </text>
+    <text>
+        <origin>Переход</origin>
+        <translation>Transición</translation>
+    </text>
+    <text>
+        <origin>Адрес:</origin>
+        <translation>Dirección:</translation>
+    </text>
+    <text>
+        <origin>Выбрать директорию для сохранения данных</origin>
+        <translation>Seleccione un directorio para guardar los datos</translation>
+    </text>
+    <text>
+        <origin>Добавить точку останова</origin>
+        <translation>Añadir un punto de interrupción o breakpoint</translation>
+    </text>
+    <text>
+        <origin>Адрес (start[-end]):</origin>
+        <translation>Dirección (inicio [-final]):</translation>
+    </text>
+    <text>
+        <origin>Отладка</origin>
+        <translation>Depuración</translation>
+    </text>
+    <text>
+        <origin>Трассировка</origin>
+        <translation>Rastreo</translation>
+    </text>
+    <text>
+        <origin>Добавить точку</origin>
+        <translation>Añadir punto</translation>
+    </text>
+    <text>
+        <origin>Сохранения</origin>
+        <translation>Salvar estado</translation>
+    </text>
+    <text>
+        <origin>Видео прохождения</origin>
+        <translation>Grabación de juego</translation>
+    </text>
+    <text>
+        <origin>Всего: %1</origin>
+        <translation>Total: %1</translation>
+    </text>
+    <text>
+        <origin>Вы должны выбрать %1.</origin>
+        <translation>Debes seleccionar una %1.</translation>
+    </text>
+    <text>
+        <origin>Подключить</origin>
+        <translation>Insertar Juego/BIOS</translation>
+    </text>
+    <text>
+        <origin>Удалить навсегда</origin>
+        <translation>Eliminar todo</translation>
+    </text>
+    <text>
+        <origin>Разобрать</origin>
+        <translation>Desmontar</translation>
+    </text>
+    <text>
+        <origin>Прекомпилирование</origin>
+        <translation>Precompilar</translation>
+    </text>
+    <text>
+        <origin>Клонировать</origin>
+        <translation>Clonar</translation>
+    </text>
+    <text>
+        <origin>Сжать</origin>
+        <translation>Comprimir</translation>
+    </text>
+    <text>
+        <origin>Проверить целостность</origin>
+        <translation>Verificar integridad</translation>
+    </text>
+    <text>
+        <origin>Редактировать аннотацию</origin>
+        <translation>Editar notas del juego/sistema</translation>
+    </text>
+    <text>
+        <origin>Удалить аннотацию</origin>
+        <translation>Eliminar notas del juego/sistema</translation>
+    </text>
+    <text>
+        <origin>Отключить</origin>
+        <translation>Apagar</translation>
+    </text>
+    <text>
+        <origin>Проверить оригинальные сигнатуры</origin>
+        <translation>Verificar firmas originales</translation>
+    </text>
+    <text>
+        <origin>Создать список совместимости</origin>
+        <translation>Crear lista de compatibilidad</translation>
+    </text>
+    <text>
+        <origin>Удалить дубликаты</origin>
+        <translation>Eliminar duplicados</translation>
+    </text>
+    <text>
+        <origin>Удалить дубликаты насовсем</origin>
+        <translation>Eliminar duplicados permanentemente</translation>
+    </text>
+    <text>
+        <origin>Убрать ненайденные дампы</origin>
+        <translation>Eliminar volcados no encontrados</translation>
+    </text>
+    <text>
+        <origin>Экспортировать</origin>
+        <translation>Exportar</translation>
+    </text>
+    <text>
+        <origin>Выбор директории для прекомпиляции</origin>
+        <translation>Elige carpeta para precompilación</translation>
+    </text>
+    <text>
+        <origin>Удаление дубликатов</origin>
+        <translation>Eliminar duplicados</translation>
+    </text>
+    <text>
+        <origin>Вы действительно хотите удалить файл с компьютера?</origin>
+        <translation>¿Seguro que desea eliminar el archivo de su PC?</translation>
+    </text>
+    <text>
+        <origin>Выбрать директорию для экспорта</origin>
+        <translation>Selecciona directorio a donde exportar</translation>
+    </text>
+    <text>
+        <origin>Удаление: </origin>
+        <translation>Eliminar: </translation>
+    </text>
+    <text>
+        <origin>Удаление</origin>
+        <translation>Eliminar</translation>
+    </text>
+    <text>
+        <origin>Вы действительно хотите удалить аннотацию?</origin>
+        <translation>¿Realmente desea eliminar las anotaciones del juego/sistema?</translation>
+    </text>
+    <text>
+        <origin>Выбрать файл для клонирования</origin>
+        <translation>Seleccione archivo a clonar</translation>
+    </text>
+    <text>
+        <origin>Бинарный файл (*.bin)</origin>
+        <translation>Archivo binario (*.bin)</translation>
+    </text>
+    <text>
+        <origin>Создать сжатый образ</origin>
+        <translation>Crear imagen comprimida</translation>
+    </text>
+    <text>
+        <origin>Сжатый образ (*.binar)</origin>
+        <translation>Imagen comprimida (* .binar)</translation>
+    </text>
+    <text>
+        <origin>Целостность оригинальных данных нарушена!</origin>
+        <translation>¡INTEGRIDAD DE DATOS ORIGINALES COMPROMETIDA!</translation>
+    </text>
+    <text>
+        <origin>Платформенные сигнатуры не совпадают.</origin>
+        <translation>FIRMAS DE PLATAFORMA NO COINCIDEN.</translation>
+    </text>
+    <text>
+        <origin>Целостность данных на вашем носителе нарушена!</origin>
+        <translation>¡INTEGRIDAD DEL MEDIO COMPROMETIDA!</translation>
+    </text>
+    <text>
+        <origin>Контрольные суммы не совпадают.</origin>
+        <translation>¡SUMAS DE CONTROL NO COINCIDEN!</translation>
+    </text>
+    <text>
+        <origin>Данные на вашем носителе не изменились.</origin>
+        <translation>Datos intactos y sin alterar.</translation>
+    </text>
+    <text>
+        <origin>Контрольные суммы совпадают.</origin>
+        <translation>Sumas de verificación correctas.</translation>
+    </text>
+    <text>
+        <origin>Стек сохранений</origin>
+        <translation>Guardar pila</translation>
+    </text>
+    <text>
+        <origin>размер:%1 md5:%2 sha1:%3</origin>
+        <translation>Tamaño:%1 md5:%2 sha1:%3</translation>
+    </text>
+    <text>
+        <origin>Проект «Феникс»</origin>
+        <translation>Proyecto "Phoenix"</translation>
+    </text>
+    <text>
+        <origin>Коллекция</origin>
+        <translation>Colección</translation>
+    </text>
+    <text>
+        <origin>Фоновые задачи</origin>
+        <translation>Tareas en segundo plano</translation>
+    </text>
+    <text>
+        <origin>Выбор платформы</origin>
+        <translation>Elegir plataforma</translation>
+    </text>
+    <text>
+        <origin>3DO Interactive Multiplayer</origin>
+        <translation>3DO Interactive Multiplayer</translation>
+    </text>
+    <text>
+        <origin>ColecoVision</origin>
+        <translation>ColecoVision</translation>
+    </text>
+    <text>
+        <origin>SG-1000\nSega Master System\nSega Game Gear</origin>
+        <translation>SG-1000\nSega Master System\nSega Game Gear</translation>
+    </text>
+    <text>
+        <origin>SG-1000, Sega Master System и Sega Game Gear</origin>
+        <translation>SG-1000, Sega Master System и Sega Game Gear</translation>
+    </text>
+    <text>
+        <origin>Game Boy</origin>
+        <translation>Game Boy</translation>
+    </text>
+	<text>
+        <origin>Jaguar</origin>
+        <translation>Jaguar</translation>
+    </text>
+	<text>
+        <origin>Atari Jaguar</origin>
+        <translation>Atari Jaguar</translation>
+    </text>
+    <text>
+        <origin>Дочерние проекты</origin>
+        <translation>Proyectos asociados</translation>
+    </text>
+    <text>
+        <origin>Хочу поддержать проект!</origin>
+        <translation>¡Quiero apoyar el proyecto!</translation>
+    </text>
+    <text>
+        <origin>Real3DOPlayer</origin>
+        <translation>Real3DOPlayer</translation>
+    </text>
+	    <text>
+        <origin>Real3DOPlayer - эмулятор 3DO под Android</origin>
+        <translation>Real3DOPlayer - 3DO emulator for Android</translation>
+    </text>
+    <text>
+        <origin>NumPadPlayer</origin>
+        <translation>NumPadPlayer</translation>
+    </text>
+    <text>
+        <origin>NumPadPlayer - эмулятор ColecoVision под Android</origin>
+        <translation>NumPadPlayer - Emulador de ColecoVision para Android</translation>
+    </text>
+    <text>
+        <origin>GearMasterPlayer</origin>
+        <translation>GearMasterPlayer</translation>
+    </text>
+    <text>
+        <origin>GearMasterPlayer - эмулятор SG-1000, Sega Master System и Game Gear под Android</origin>
+        <translation>GearMasterPlayer - Emulador de SG-1000, Sega Master System y Game Gear para Android</translation>
+    </text>
+    <text>
+        <origin>Выйти</origin>
+        <translation>Salir</translation>
+    </text>
+    <text>
+        <origin>Закрыть приложение</origin>
+        <translation>Cerrar programa</translation>
+    </text>
+    <text>
+        <origin>Справка</origin>
+        <translation>Acerca de (en ruso)</translation>
+    </text>
+    <text>
+        <origin>Информация о проекте</origin>
+        <translation>Información sobre el proyecto</translation>
+    </text>
+    <text>
+        <origin>Требуется помощь разработчика?</origin>
+        <translation>Contactar con el desarrollador</translation>
+    </text>
+    <text>
+        <origin>Требуется помощь разработчика программного обеспечения?</origin>
+        <translation>¿Necesita la ayuda de un desarrollador de software?</translation>
+    </text>
+    <text>
+        <origin>Питание</origin>
+        <translation>Encender/Apagar</translation>
+    </text>
+    <text>
+        <origin>Управление питанием</origin>
+        <translation>Encender y apagar consola</translation>
+    </text>
+    <text>
+        <origin>Пауза</origin>
+        <translation>Pausa</translation>
+    </text>
+    <text>
+        <origin>Приостановка эмуляции</origin>
+        <translation>Pausa emulación</translation>
+    </text>
+    <text>
+        <origin>Сброс</origin>
+        <translation>Reiniciar</translation>
+    </text>
+    <text>
+        <origin>Сброс системы</origin>
+        <translation>Reinicio de sistema</translation>
+    </text>
+    <text>
+        <origin>Настройки</origin>
+        <translation>Ajustes</translation>
+    </text>
+    <text>
+        <origin>Тишина</origin>
+        <translation>Silenciar</translation>
+    </text>
+    <text>
+        <origin>Отключение звука</origin>
+        <translation>Silenciar el sonido</translation>
+    </text>
+    <text>
+        <origin>Снимок экрана</origin>
+        <translation>Captura de pantalla</translation>
+    </text>
+    <text>
+        <origin>Сохранить снимок экрана</origin>
+        <translation>Guardar captura de pantalla</translation>
+    </text>
+    <text>
+        <origin>Быстрый снимок экрана</origin>
+        <translation>Captura de pantalla rápida</translation>
+    </text>
+    <text>
+        <origin>Сохранить снимок экрана без указания файла и формата</origin>
+        <translation>Guardar captura de pantalla sin indicar archivo ni formato</translation>
+    </text>
+    <text>
+        <origin>Сохранить</origin>
+        <translation>Salvar</translation>
+    </text>
+    <text>
+        <origin>Сохранить состояние эмуляции</origin>
+        <translation>Salvar estado de emulación</translation>
+    </text>
+    <text>
+        <origin>Пересохранить</origin>
+        <translation>Reguardar</translation>
+    </text>
+    <text>
+        <origin>Сохранить состояние эмуляции в верхний слот</origin>
+        <translation>Guardar estado de emulación en la ranura superior</translation>
+    </text>
+    <text>
+        <origin>Загрузить</origin>
+        <translation>Cargar estado</translation>
+    </text>
+    <text>
+        <origin>Загрузить состояние эмуляции</origin>
+        <translation>Cargar estado</translation>
+    </text>
+    <text>
+        <origin>Полный экран</origin>
+        <translation>Pantalla completa (F11)</translation>
+    </text>
+    <text>
+        <origin>Переход в полноэкранный режим</origin>
+        <translation>Entrar en modo de pantalla completa (F11)</translation>
+    </text>
+    <text>
+        <origin>Увеличить</origin>
+        <translation>Aumentar</translation>
+    </text>
+    <text>
+        <origin>Увеличить экран</origin>
+        <translation>Ampliar la pantalla</translation>
+    </text>
+    <text>
+        <origin>Уменьшить</origin>
+        <translation>Reducir</translation>
+    </text>
+    <text>
+        <origin>Уменьшить экран</origin>
+        <translation>Reducir la pantalla</translation>
+    </text>
+	<text>
+        <origin>Профилирование</origin>
+        <translation>Mostrar información básica y FPS</translation>
+    </text>
+	<text>
+        <origin>Профилирование цикла эмуляции</origin>
+        <translation>Muestra información básica del sistema como CPU y FPS</translation>
+    </text>
+	<text>
+        <origin>Подсветить полигоны</origin>
+        <translation>Destacar poligonos</translation>
+    </text>
+    <text>
+        <origin>Подсветить полигоны (только аппаратный рендер)</origin>
+        <translation>Destacar polígonos (solo renderizado por hardware)</translation>
+    </text>
+    <text>
+        <origin>Расширенное профилирование</origin>
+        <translation>Información avanzada del sistema</translation>
+    </text>
+    <text>
+        <origin>Платформозависимые данные профилирования</origin>
+        <translation>Muestra información avanzada del sistema</translation>
+    </text>
+    <text>
+        <origin>Отладчик</origin>
+        <translation>Depurador</translation>
+    </text>
+    <text>
+        <origin>Открыть пожиратель глюков</origin>
+        <translation>Abir depurador</translation>
+    </text>
+    <text>
+        <origin>Запись</origin>
+        <translation>Grabación</translation>
+    </text>
+    <text>
+        <origin>Запись игрового процесса</origin>
+        <translation>Grabar tu sesión de juego (gameplay)</translation>
+    </text>
+    <text>
+        <origin>Открыть запись</origin>
+        <translation>Ver grabaciones de juego</translation>
+    </text>
+    <text>
+        <origin>Открыть запись игрового процесса</origin>
+        <translation>Abrir gameplays grabados</translation>
+    </text>
+    <text>
+        <origin>Редактировать аннотацию текущей игры</origin>
+        <translation>Editar la anotación del juego actual</translation>
+    </text>
+    <text>
+        <origin>Режим ускоренной эмуляции</origin>
+        <translation>Modo de emulación acelerada</translation>
+    </text>
+    <text>
+        <origin>Данный режим позволяет оценить производительность или быстро пройти тесты эмулируемых подсистем</origin>
+        <translation>Este modo le permite evaluar el rendimiento o pasar rápidamente las pruebas de subsistemas emulados</translation>
+    </text>
+	<text>
+        <origin>Создать С++ массив</origin>
+        <translation>Crear matriz C ++ (arrays)</translation>
+    </text>
+    <text>
+        <origin>Создать С++ массив из бинарного файла</origin>
+        <translation>Crear una matriz C ++ a partir de un fichero binario</translation>
+    </text>
+    <text>
+        <origin>Протестировать M68K</origin>
+        <translation>Prueba de M68K</translation>
+    </text>
+    <text>
+        <origin>Добавить заголовок в дамп картриджа Atari Jaguar</origin>
+        <translation>Añadir cabecera a ROM de Atari Jaguar</translation>
+    </text>
+    <text>
+        <origin>Добавить универсальный заголовок в дамп картриджа Atari Jaguar</origin>
+        <translation>Añadir cabecera genérica a ROM de Atari Jaguar</translation>
+    </text>
+    <text>
+        <origin>Исправить образ 3DO диска</origin>
+        <translation>Reparar imagen de CD para 3DO</translation>
+    </text>
+    <text>
+        <origin>Исправить образ 3DO диска с некорректным числом секторов</origin>
+        <translation>Reparar imagen de CD para 3DO con nº incorrecto de sectores</translation>
+    </text>
+    <text>
+        <origin>Добавить %1 образ в коллекцию</origin>
+        <translation>Agregar imagen %1 a la colección</translation>
+    </text>
+    <text>
+        <origin>Изъять %1</origin>
+        <translation>Expulsar %1</translation>
+    </text>
+    <text>
+        <origin>Добавить %1 дамп в коллекцию</origin>
+        <translation>Añadir archivo %1 a la colección</translation>
+    </text>
+    <text>
+        <origin>Новое %1 хранилище</origin>
+        <translation>Nuevo archivo de almacenaje %1</translation>
+    </text>
+    <text>
+        <origin>Файл</origin>
+        <translation>Archivo</translation>
+    </text>
+    <text>
+        <origin>Помощь</origin>
+        <translation>Ayuda</translation>
+    </text>
+    <text>
+        <origin>Конвертaция</origin>
+        <translation>Convertir formato</translation>
+    </text>
+	<text>
+        <origin>Сохранить снимок экрана в файл</origin>
+        <translation>Guarde la captura de pantalla en el archivo</translation>
+    </text>
+    <text>
+        <origin>JPEG формат (*.jpg);;PNG формат (*.png)</origin>
+        <translation>Formato JPEG (*.jpg);;Formato PNG (*.png)</translation>
+    </text>
+    <text>
+        <origin>О Проекте</origin>
+        <translation>Acerca del proyecto</translation>
+    </text>
+    <text>
+        <origin>Открыть образ диска</origin>
+        <translation>Abrir imagen de disco</translation>
+    </text>
+    <text>
+        <origin>Файл с образом диска (*.iso *.img *.cdi *.bin *.nrg *.binar);;Произвольный файл (*.*)</origin>
+        <translation>Imagen de disco (*.iso *.img *.cdi *.bin *.nrg *.binar);;Todos los archivos (*.*)</translation>
+    </text>
+    <text>
+        <origin>Открыть дамп ПЗУ</origin>
+        <translation>Volcado de ROM abierto</translation>
+    </text>
+	<text>
+        <origin>Файл дампа ПЗУ (</origin>
+        <translation>Archivo ROM (</translation>
+    </text>
+    <text>
+        <origin>);;Произвольный файл (*.*)</origin>
+        <translation>);;Tipo de archivo personalizado (*.*)</translation>
+    </text>
+    <text>
+        <origin>Создать хранилище энергонезависимой памяти</origin>
+        <translation>Crear almacenamiento de memoria no volátil</translation>
+    </text>
+    <text>
+        <origin>Файл для энергонезависимой памяти (*.ram)</origin>
+        <translation>Archivo para memoria no volátil (*.ram)</translation>
+    </text>
+    <text>
+        <origin>Открыть видеозапись</origin>
+        <translation>Abrir grabación de juego</translation>
+    </text>
+    <text>
+        <origin>Файл записи игры (*.recplay);;Произвольный файл (*.*)</origin>
+        <translation>Grabaciones de juego (*.recplay);;Todos los archivos (*.*)</translation>
+    </text>
+	<text>
+        <origin>Открыть тест</origin>
+        <translation>Abrir prueba</translation>
+    </text>
+    <text>
+        <origin>Файл теста (*.tm68k);;Произвольный файл (*.*)</origin>
+        <translation>Archivo de prueba (*.tm68k);;Todos los archivos (*.*)</translation>
+    </text>
+    <text>
+        <origin>Открыть файл</origin>
+        <translation>Abrir archivo</translation>
+    </text>
+    <text>
+        <origin>Произвольный файл (*.*)</origin>
+        <translation>Archivo personalizado (*.*)</translation>
+    </text>
+    <text>
+	    <origin>Файл с образом диска (*.iso *.img *.cdi *.bin *.nrg);;Произвольный файл (*.*)</origin>
+        <translation>Imagen de disco (*.iso *.img *.cdi *.bin *.nrg);;Todos los archivos (*.*)</translation>
+    </text>
+    <text>
+        <origin>Открыть дамп</origin>
+        <translation>Open volcado</translation>
+    </text>
+    <text>
+        <origin>Дамп (*.jag *.bin *.rom);;Произвольный файл (*.*)</origin>
+        <translation>Cartuchos (*.jag *.bin *.rom);;Todos los archivos (*.*)</translation>
+    </text>
+    <text>
+        <origin>Рокировка каналов</origin>
+        <translation>Invertir canales</translation>
+    </text>
+    <text>
+        <origin>Громкость</origin>
+        <translation>Volumen</translation>
+    </text>
+    <text>
+        <origin>Создать</origin>
+        <translation>Crear</translation>
+    </text>
+    <text>
+        <origin>Дополнить</origin>
+        <translation>Suplemento/Completo</translation>
+    </text>
+    <text>
+        <origin>Переопределить</origin>
+        <translation>Anular</translation>
+    </text>
+    <text>
+        <origin>Редактировать</origin>
+        <translation>Editar</translation>
+    </text>
+    <text>
+        <origin>Скрывать курсор в полноэкранном режиме</origin>
+        <translation>Ocultar cursor en modo de pantalla completa</translation>
+    </text>
+    <text>
+        <origin>Редактировать %1</origin>
+        <translation>Editar %1</translation>
+    </text>
+    <text>
+        <origin>Скрипт:</origin>
+        <translation>Script:</translation>
+    </text>
+    <text>
+        <origin>кнопку</origin>
+        <translation>Botón</translation>
+    </text>
+    <text>
+        <origin>ось</origin>
+        <translation>Eje</translation>
+    </text>
+    <text>
+        <origin>координату</origin>
+        <translation>Coordenada-X</translation>
+    </text>
+    <text>
+        <origin>отклонение</origin>
+        <translation>Desviación</translation>
+    </text>
+    <text>
+        <origin>Элемент</origin>
+        <translation>Ajustes de entrada</translation>
+    </text>
+    <text>
+        <origin>Элемент</origin>
+        <translation>Elemento</translation>
+    </text>
+    <text>
+        <origin>Статус</origin>
+        <translation>Status</translation>
+    </text>
+    <text>
+        <origin>Автозахват осей</origin>
+        <translation>Autobloqueo de ejes</translation>
+    </text>
+    <text>
+        <origin>%1 Для согласия нажмите ввод или пробел для отказа.</origin>
+        <translation>%1 Para aceptar, pulse enter o espacio para rechazar.</translation>
+    </text>
+    <text>
+        <origin>Джойстик %1</origin>
+        <translation>Joystick %1</translation>
+    </text>
+    <text>
+        <origin>Ось %1</origin>
+        <translation>Eje %1</translation>
+    </text>
+    <text>
+        <origin>Курсор</origin>
+        <translation>Cursor</translation>
+    </text>
+    <text>
+        <origin>Левая кнопка (+)</origin>
+        <translation>Botón izquierdo del ratón (+)</translation>
+    </text>
+    <text>
+        <origin>Правая кнопка (-)</origin>
+        <translation>Botón derecho del ratón (-)</translation>
+    </text>
+    <text>
+        <origin>Средняя кнопка (+)</origin>
+        <translation>Botón central del ratón (+)</translation>
+    </text>
+    <text>
+        <origin>Левая кнопка (-)</origin>
+        <translation>Botón izquierdo (-)</translation>
+    </text>
+    <text>
+        <origin>Правая кнопка (+)</origin>
+        <translation>Botón derecho (+)</translation>
+    </text>
+    <text>
+        <origin>Средняя кнопка (-)</origin>
+        <translation>Botón central (-)</translation>
+    </text>
+    <text>
+        <origin>X Координата</origin>
+        <translation>Coordenada X</translation>
+    </text>
+    <text>
+        <origin>Y Координата</origin>
+        <translation>Coordenada Y</translation>
+    </text>
+    <text>
+        <origin>Колесо</origin>
+        <translation>Rueda</translation>
+    </text>
+    <text>
+        <origin>Левая кнопка</origin>
+        <translation>Botón izquierdo</translation>
+    </text>
+    <text>
+        <origin>Правая кнопка</origin>
+        <translation>Botón derecho</translation>
+    </text>
+    <text>
+        <origin>Средняя кнопка</origin>
+        <translation>Botón central</translation>
+    </text>
+    <text>
+        <origin>X Отклонение (+)</origin>
+        <translation>Desviación X (+)</translation>
+    </text>
+    <text>
+        <origin>X Отклонение (-)</origin>
+        <translation>Desviación X (-)</translation>
+    </text>
+    <text>
+        <origin>Y Отклонение (+)</origin>
+        <translation>Desviación Y (+)</translation>
+    </text>
+    <text>
+        <origin>Y Отклонение (-)</origin>
+        <translation>Desviación Y (-)</translation>
+    </text>
+    <text>
+        <origin>Прокрутка (+)</origin>
+        <translation>Desplazamiento (+)</translation>
+    </text>
+    <text>
+        <origin>Прокрутка (-)</origin>
+        <translation>Desplazamiento (-)</translation>
+    </text>
+    <text>
+        <origin>X Отклонение</origin>
+        <translation>Desviación X</translation>
+    </text>
+    <text>
+        <origin>Y Отклонение</origin>
+        <translation>Desviación Y</translation>
+    </text>
+    <text>
+        <origin>Мышь %1: %2</origin>
+        <translation>Ratón %1: %2</translation>
+    </text>
+    <text>
+        <origin>Джойстик %1: %2</origin>
+        <translation>Joystick %1: %2</translation>
+    </text>
+    <text>
+        <origin>Ось %1 0..V</origin>
+        <translation>Eje %1 0..V</translation>
+    </text>
+    <text>
+        <origin>Ось %1 V..0</origin>
+        <translation>Eje %1 V..0</translation>
+    </text>
+    <text>
+        <origin>Ось %1 0..-V</origin>
+        <translation>Eje %1 0..-V</translation>
+    </text>
+    <text>
+        <origin>Ось %1 -V..0</origin>
+        <translation>Eje %1 -V..0</translation>
+    </text>
+    <text>
+        <origin>КНОПКА на %1</origin>
+        <translation>BOTÓN en %1</translation>
+    </text>
+    <text>
+        <origin>Выбрать положительное (+) направление?</origin>
+        <translation>¿Elegir una dirección positiva (+)?</translation>
+    </text>
+    <text>
+        <origin>Опорные кадры при записи раз в %1 сек.</origin>
+        <translation>Fotogramas clave al grabar cada %1 segundo(s)</translation>
+    </text>
+    <text>
+        <origin>Отключить автосохранения</origin>
+        <translation>Desactivar guardado automático</translation>
+    </text>
+    <text>
+        <origin>Сохранять пропорции экрана</origin>
+        <translation>Mantener relación de aspecto</translation>
+    </text>
+    <text>
+        <origin>Вертикальная синхронизация</origin>
+        <translation>Sincronización vertical/Vsync</translation>
+    </text>
+    <text>
+        <origin>Расширить фон</origin>
+        <translation>Expandir fondo</translation>
+    </text>
+    <text>
+        <origin>Разрешить бордюры</origin>
+        <translation>Permitir bordes</translation>
+    </text>
+    <text>
+        <origin>Фильтр изображения</origin>
+        <translation>Filtro de imagen</translation>
+    </text>
+    <text>
+        <origin>Линейный</origin>
+        <translation>Lineal</translation>
+    </text>
+    <text>
+        <origin>Масштаб FBO x1</origin>
+        <translation>Escala FBO x1</translation>
+    </text>
+    <text>
+        <origin>Фильтрация текстур</origin>
+        <translation>Filtrado de Texturas</translation>
+    </text>
+    <text>
+        <origin>Авто</origin>
+        <translation>Auto</translation>
+    </text>
+    <text>
+        <origin>Принудительно</origin>
+        <translation>Forzar</translation>
+    </text>
+    <text>
+        <origin>Отключено</origin>
+        <translation>Deshabilitado</translation>
+    </text>
+    <text>
+        <origin>Масштабирование текстур x1</origin>
+        <translation>Escalado de texturas x1</translation>
+    </text>
+    <text>
+        <origin>Нет</origin>
+        <translation>No</translation>
+    </text>
+    <text>
+        <origin>Шейдер: </origin>
+        <translation>Sombreado: </translation>
+    </text>
+    <text>
+        <origin>Скрипт: </origin>
+        <translation>Script: </translation>
+    </text>
+    <text>
+        <origin>Масштабирование текстур x%1</origin>
+        <translation>Escalado de texturas x%1</translation>
+    </text>
+    <text>
+        <origin>!!! Масштаб FBO x%1</origin>
+        <translation>!!! Escala FBO x%1</translation>
+    </text>
+    <text>
+        <origin>Масштаб FBO x%1</origin>
+        <translation>Escala FBO x%1</translation>
+    </text>
+    <text>
+        <origin>Ввод</origin>
+        <translation>Dispositivos de entrada</translation>
+    </text>
+    <text>
+        <origin>Видео</origin>
+        <translation>Video</translation>
+    </text>
+    <text>
+        <origin>Аудио</origin>
+        <translation>Audio</translation>
+    </text>
+    <text>
+        <origin>Прочее</origin>
+        <translation>Otro</translation>
+    </text>
+    <text>
+        <origin>Начать запись</origin>
+        <translation>Empezar a grabar</translation>
+    </text>
+    <text>
+        <origin>Вы хотите продолжить запись c текущей позиции в проигрываемый файл?</origin>
+        <translation>¿Desea continuar grabando desde la posición actual al archivo en reproducción?</translation>
+    </text>
+    <text>
+        <origin>Операция</origin>
+        <translation>Operación</translation>
+    </text>
+    <text>
+        <origin>Геймпад</origin>
+        <translation>Gamepad</translation>
+    </text>
+    <text>
+        <origin>Верх</origin>
+        <translation>Arriba</translation>
+    </text>
+    <text>
+        <origin>Низ</origin>
+        <translation>Abajo</translation>
+    </text>
+    <text>
+        <origin>Лево</origin>
+        <translation>Izquierda</translation>
+    </text>
+    <text>
+        <origin>Право</origin>
+        <translation>Derecha</translation>
+    </text>
+    <text>
+        <origin>Мышь/Трекбол</origin>
+        <translation>Ratón/Trackball</translation>
+    </text>
+    <text>
+        <origin>Световой пистолет</origin>
+        <translation>Light gun</translation>
+    </text>
+    <text>
+        <origin>Огонь</origin>
+        <translation>Fuego</translation>
+    </text>
+    <text>
+        <origin>Перезарядка</origin>
+        <translation>Recargar</translation>
+    </text>
+    <text>
+        <origin>Сервис</origin>
+        <translation>Servicio</translation>
+    </text>
+    <text>
+        <origin>Монетоприемник</origin>
+        <translation>Receptor de monedas</translation>
+    </text>
+    <text>
+        <origin>Старт</origin>
+        <translation>Iniciar</translation>
+    </text>
+    <text>
+        <origin>Кобура</origin>
+        <translation>Funda</translation>
+    </text>
+    <text>
+        <origin>Рисовать прицел?</origin>
+        <translation>¿Dibujar la vista?</translation>
+    </text>
+    <text>
+        <origin>Сервисный контроллер OrbAtak</origin>
+        <translation>Controlador de servicio OrbAtak</translation>
+    </text>
+    <text>
+        <origin>Левый монеториемник</origin>
+        <translation>Cajón de monedas izquierdo</translation>
+    </text>
+    <text>
+        <origin>Левый старт</origin>
+        <translation>Inicio lado izquierdo (P1)</translation>
+    </text>
+    <text>
+        <origin>Правый монеториемник</origin>
+        <translation>Cajón de monedas derecho</translation>
+    </text>
+    <text>
+        <origin>Правый старт</origin>
+        <translation>Inicio lado izquierdo (P2)</translation>
+    </text>
+    <text>
+        <origin>Джойстик Flightstick Pro</origin>
+        <translation>Flightstick Pro Joystick</translation>
+    </text>
+    <text>
+        <origin>Рендер</origin>
+        <translation>Render</translation>
+    </text>
+    <text>
+        <origin>Программный (Аппроксимация)</origin>
+        <translation>Software (aproximación)</translation>
+    </text>
+    <text>
+        <origin>Программный (Оригинал)</origin>
+        <translation>Software (original)</translation>
+    </text>
+    <text>
+        <origin>Аппаратный (Экспериментально)</origin>
+        <translation>Hardware (Experimental)</translation>
+    </text>
+    <text>
+        <origin>Видеопоток</origin>
+        <translation>Video en directo</translation>
+    </text>
+    <text>
+        <origin>Внутренний</origin>
+        <translation>Interno</translation>
+    </text>
+    <text>
+        <origin>Интерполированный</origin>
+        <translation>Interpolado (entrelazado)</translation>
+    </text>
+    <text>
+        <origin>Не отслеживать модификации пикселов процессором</origin>
+        <translation>No rastrar modificaciones de píxeles del procesador</translation>
+    </text>
+    <text>
+        <origin>Множитель ARM</origin>
+        <translation>Factor multiplicador ARM</translation>
+    </text>
+    <text>
+        <origin>Эмулровать DSP в отдельном потоке</origin>
+        <translation>Emular DSP en un hilo (thread) separado</translation>
+    </text>
+    <text>
+        <origin>Эмулровать CEL-Engine в отдельном потоке</origin>
+        <translation>Emule el motor CEL en un hilo separado</translation>
+    </text>
+    <text>
+        <origin>Скорость CD-привода</origin>
+        <translation>Velocidad del CD</translation>
+    </text>
+    <text>
+        <origin>Согласно платформе</origin>
+        <translation>Selecciona platforma</translation>
+    </text>
+    <text>
+        <origin>Без ограничений</origin>
+        <translation>Sin limites</translation>
+    </text>
+    <text>
+        <origin>Учет циклов CEL-Engine</origin>
+        <translation>Contador de ciclos del motor CEL</translation>
+    </text>
+    <text>
+        <origin>100% + вне кадра</origin>
+        <translation>100% + fuera de cuadro (frame)</translation>
+    </text>
+    <text>
+        <origin>Не учитывать</origin>
+        <translation>Ignorar</translation>
+    </text>
+    <text>
+        <origin>Отрисовка всех CEL в конце CCB-списка</origin>
+        <translation>Dibujar todos los CEL al final de la lista CCB</translation>
+    </text>
+    <text>
+        <origin>Эмуляция DSP</origin>
+        <translation>Emulación de DSP</translation>
+    </text>
+    <text>
+        <origin>Быстрая - рекомпиляция инструментов</origin>
+        <translation>Rápido - Herramientas de recompilado</translation>
+    </text>
+    <text>
+        <origin>Средняя - с точностью до сэмпла</origin>
+    </text>
+        <translation>Medio - con precisión de una muestra</translation>
+    <text>
+        <origin>Медленная - с точностью до такта</origin>
+        <translation>Preciso - con medida exacta</translation>
+    </text>
+    <text>
+        <origin>Учитывать ограничения консоли на спрайты</origin>
+        <translation>Respetar límites de sprites de la consola.</translation>
+    </text>
+	<text>
+        <origin>Bepcии эмуляторa под Android</origin>
+        <translation>Versiones de Android</translation>
+    </text>
+    <text>
+        <origin>эмуляторa 3DO под Android</origin>
+        <translation>Emulador 3DO para Android</translation>
+    </text>
+</root>
